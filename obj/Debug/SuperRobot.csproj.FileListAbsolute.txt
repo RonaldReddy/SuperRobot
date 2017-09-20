@@ -1,0 +1,5 @@
+c:\users\ronald\documents\visual studio 2015\Projects\SuperRobo\SuperRobot\bin\Debug\SuperRobot.dll
+c:\users\ronald\documents\visual studio 2015\Projects\SuperRobo\SuperRobot\bin\Debug\SuperRobot.pdb
+c:\users\ronald\documents\visual studio 2015\Projects\SuperRobo\SuperRobot\obj\Debug\SuperRobot.dll
+c:\users\ronald\documents\visual studio 2015\Projects\SuperRobo\SuperRobot\obj\Debug\SuperRobot.pdb
+c:\users\ronald\documents\visual studio 2015\Projects\SuperRobo\SuperRobot\obj\Debug\SuperRobot.csprojResolveAssemblyReference.cache
